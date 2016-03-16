@@ -22,6 +22,5 @@
             "Illuminate\\Translation": ""
         }
     },
-    "target-dir": "Illuminate/Translation",
-    "minimum-stability": "dev"
+    "target-dir": "Illuminate/Translation"
 }
