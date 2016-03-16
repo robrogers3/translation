@@ -23,10 +23,5 @@
         }
     },
     "target-dir": "Illuminate/Translation",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.1-dev"
-        }
-    },
     "minimum-stability": "dev"
 }
